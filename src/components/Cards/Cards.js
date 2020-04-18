@@ -59,7 +59,7 @@ function Cards(props) {
                             />
                         </Typography>
                         <Typography color="textSecondary">Update Time:{new Date(lastUpdate).toDateString()}</Typography>
-                        <Typography variant="body2">Number of dealths by COVID-19</Typography>
+                        <Typography variant="body2">Number of deaths by COVID-19</Typography>
                     </CardContent>
                 </Grid>
             </Grid>

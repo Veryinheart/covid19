@@ -1,12 +1,12 @@
 .container{
+    margin: 50px 50px;
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: column;
     width: 85%;
-}
-
-@media(max-width:770px){
+    
+ }
+ @media(max-width:770px){
     .container{
         width:100%
     }
